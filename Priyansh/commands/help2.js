@@ -73,7 +73,7 @@ module.exports. run = function({ api, event, args, getText }) {
     for (let item of returnArray) msg += `✰『 ${++i} 』 ➬${item} \n`;
     
     
-    const siu = `Page Cmds  💯💯💖𝐌𝐚𝐝𝐞 𝐁𝐲 𝐀𝐫𝐮𝐧 𝐤𝐮𝐦𝐚𝐫`;
+    const siu = `Page Cmds  💯💯💖𝐌𝐚𝐝𝐞 𝐁𝐲 𝐁𝐫𝐨𝐤𝐚𝐧 𝐀𝐫𝐲𝐚𝐧`;
     
  const text = `\nPage (${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)})`;
  
